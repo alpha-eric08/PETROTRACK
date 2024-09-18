@@ -1,10 +1,11 @@
-import React from 'react'
+import Mainpages from './pages'
+import Contact from './pages/contact'
 
 function App() {
   return (
-    <div className=''>
-      
-    </div>
+    <>
+      <Mainpages />
+    </>
   )
 }
 
